@@ -1,0 +1,9 @@
+D:\Mes documents\GIT\Test3\testbgotw\BestGameOfTheWorld\BestGameOfTheWorld\obj\Release\BestGameOfTheWorld.exe
+D:\Mes documents\GIT\Test3\testbgotw\BestGameOfTheWorld\BestGameOfTheWorld\obj\Release\BestGameOfTheWorld.pdb
+D:\Mes documents\GIT\Test3\testbgotw\BestGameOfTheWorld\BestGameOfTheWorld\bin\Release\BestGameOfTheWorld.exe
+D:\Mes documents\GIT\Test3\testbgotw\BestGameOfTheWorld\BestGameOfTheWorld\bin\Release\BestGameOfTheWorld.pdb
+D:\Mes documents\GIT\Test3\testbgotw\BestGameOfTheWorld\BestGameOfTheWorld\obj\Release\ResolveAssemblyReference.cache
+D:\Mes documents\GIT\Test3\testbgotw\BestGameOfTheWorld\BestGameOfTheWorld\obj\Release\BestGameOfTheWorld.BGOTW.resources
+D:\Mes documents\GIT\Test3\testbgotw\BestGameOfTheWorld\BestGameOfTheWorld\obj\Release\BestGameOfTheWorld.Properties.Resources.resources
+D:\Mes documents\GIT\Test3\testbgotw\BestGameOfTheWorld\BestGameOfTheWorld\obj\Release\GenerateResource.read.1.tlog
+D:\Mes documents\GIT\Test3\testbgotw\BestGameOfTheWorld\BestGameOfTheWorld\obj\Release\GenerateResource.write.1.tlog

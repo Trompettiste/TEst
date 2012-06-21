@@ -1,0 +1,16 @@
+obj\Debug\BestGameOfTheWorld.exe
+obj\Debug\BestGameOfTheWorld.pdb
+bin\Release\BestGameOfTheWorld.exe
+bin\Release\BestGameOfTheWorld.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\BestGameOfTheWorld.Properties.Resources.resources
+obj\Release\BestGameOfTheWorld.csproj.GenerateResource.Cache
+obj\Release\BestGameOfTheWorld.exe
+obj\Release\BestGameOfTheWorld.pdb
+bin\Debug\BestGameOfTheWorld.exe
+bin\Debug\BestGameOfTheWorld.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BestGameOfTheWorld.Form1.resources
+obj\Debug\BestGameOfTheWorld.Properties.Resources.resources
+obj\Debug\BestGameOfTheWorld.csproj.GenerateResource.Cache
+obj\Release\BestGameOfTheWorld.BGOTW.resources

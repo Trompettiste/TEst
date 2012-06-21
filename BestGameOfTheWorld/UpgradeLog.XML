@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BestGameOfTheWorld">
+</Property><Property Name="Solution File" Value="D:\Mes documents\GIT\Test3\testbgotw\BestGameOfTheWorld\BestGameOfTheWorld.sln">
+</Property><Property Name="User Options File" Value="D:\Mes documents\GIT\Test3\testbgotw\BestGameOfTheWorld\BestGameOfTheWorld.suo">
+</Property><Property Name="Date" Value="jeudi 21 juin 2012">
+</Property><Property Name="Time" Value="17:56">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BestGameOfTheWorld.sln" Description="File successfully backed up as D:\Mes documents\GIT\Test3\testbgotw\BestGameOfTheWorld\Backup\BestGameOfTheWorld.sln">
+</Event><Event ErrorLevel="0" Project="" Source="BestGameOfTheWorld.suo" Description="File successfully backed up as D:\Mes documents\GIT\Test3\testbgotw\BestGameOfTheWorld\Backup\BestGameOfTheWorld.suo">
+</Event><Event ErrorLevel="0" Project="BestGameOfTheWorld" Source="BestGameOfTheWorld\BestGameOfTheWorld.csproj" Description="Project file successfully backed up as D:\Mes documents\GIT\Test3\testbgotw\BestGameOfTheWorld\Backup\BestGameOfTheWorld\BestGameOfTheWorld.csproj">
+</Event><Event ErrorLevel="0" Project="BestGameOfTheWorld" Source="BestGameOfTheWorld\BGOTW.cs" Description="File successfully backed up as D:\Mes documents\GIT\Test3\testbgotw\BestGameOfTheWorld\Backup\BestGameOfTheWorld\BGOTW.cs">
+</Event><Event ErrorLevel="0" Project="BestGameOfTheWorld" Source="BestGameOfTheWorld\BGOTW.Designer.cs" Description="File successfully backed up as D:\Mes documents\GIT\Test3\testbgotw\BestGameOfTheWorld\Backup\BestGameOfTheWorld\BGOTW.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BestGameOfTheWorld" Source="BestGameOfTheWorld\Program.cs" Description="File successfully backed up as D:\Mes documents\GIT\Test3\testbgotw\BestGameOfTheWorld\Backup\BestGameOfTheWorld\Program.cs">
+</Event><Event ErrorLevel="0" Project="BestGameOfTheWorld" Source="BestGameOfTheWorld\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Mes documents\GIT\Test3\testbgotw\BestGameOfTheWorld\Backup\BestGameOfTheWorld\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BestGameOfTheWorld" Source="BestGameOfTheWorld\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Mes documents\GIT\Test3\testbgotw\BestGameOfTheWorld\Backup\BestGameOfTheWorld\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BestGameOfTheWorld" Source="BestGameOfTheWorld\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Mes documents\GIT\Test3\testbgotw\BestGameOfTheWorld\Backup\BestGameOfTheWorld\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BestGameOfTheWorld" Source="BestGameOfTheWorld\Properties\Settings.settings" Description="File successfully backed up as D:\Mes documents\GIT\Test3\testbgotw\BestGameOfTheWorld\Backup\BestGameOfTheWorld\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="BestGameOfTheWorld" Source="BestGameOfTheWorld\BGOTW.resx" Description="File successfully backed up as D:\Mes documents\GIT\Test3\testbgotw\BestGameOfTheWorld\Backup\BestGameOfTheWorld\BGOTW.resx">
+</Event><Event ErrorLevel="0" Project="BestGameOfTheWorld" Source="BestGameOfTheWorld\Properties\Resources.resx" Description="File successfully backed up as D:\Mes documents\GIT\Test3\testbgotw\BestGameOfTheWorld\Backup\BestGameOfTheWorld\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="BestGameOfTheWorld" Source="BestGameOfTheWorld\BestGameOfTheWorld.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BestGameOfTheWorld" Source="BestGameOfTheWorld\BestGameOfTheWorld.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BestGameOfTheWorld.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="BestGameOfTheWorld.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BestGameOfTheWorld" Source="BestGameOfTheWorld\BestGameOfTheWorld.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
